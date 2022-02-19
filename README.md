@@ -1,8 +1,9 @@
 # Estudos Sobre API
 
-### Objetivos do estudo
 
-Entender melhor o funcionamento básico do Spring
+### IDE utilizada
+
+Visual Studio Code
 
 ### Utilizei 
 
