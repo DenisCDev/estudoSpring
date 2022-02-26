@@ -5,15 +5,15 @@
 
 Visual Studio Code
 
-### Utilizei 
+### Tecnologias Utilizadas
 
  - Java
  - JDK 11
  - Maven
- - Spring Boot
+ - Springboot
 
 ### Dependências 
 
- - Spring Boot DevTools
+ - Springboot DevTools
  - Spring Web
  - Thymeleaf
