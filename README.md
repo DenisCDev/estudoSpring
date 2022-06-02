@@ -1,7 +1,7 @@
 <h1 align="center">Estudo Springboot</h1>
 
 ## Sobre
-<p>Estudo sobre Springboot</p>
+<p>Estudo sobre Springboot, relembrando o básico para estudar mais a fundo</p>
 
 ## Status
 <p>Utilizado apenas para aprendizado</p>
